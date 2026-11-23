@@ -74,7 +74,6 @@ h2 {margin-bottom: 20px;}
 .navbar ul {
   list-style: none;
   display: flex;
-Gap: 30px;
   justify-content: center;
   flex-wrap: wrap;
 margin-bottom: 20px;
@@ -85,7 +84,7 @@ margin-bottom: 20px;
   color: #EFDECC;
   text-decoration: none;
   padding: 14px 22px;
-  font-size: 18px;
+  font-size: 1.05rem;
   letter-spacing: 0.03em;
   transition: background-color 0.2s ease;
 }
@@ -130,17 +129,5 @@ margin-bottom: 20px;
 
 P{text-align:left;}
 H2{font-style:italic;}
-
-
-.art-enables {
-  margin-top: 10px;
-  margin-bottom: 5px;
-}
-
-.thomas-merton {
-  margin-top: 5px;
-  margin-bottom: 5px;
-}
-
 
 Footer {margin-top: 45px; margin-bottom: 0px;}
